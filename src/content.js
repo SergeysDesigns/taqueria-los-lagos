@@ -14,7 +14,7 @@ const siteContent = {
     street: "1234 Sunrise Blvd",
     city: "Roseville, CA 95747",
   },
-  phone: "(916) 723-9466",
+  phone: "(916) 111-1111",
 
   hours: [
     "Monday – Thursday: 8am – 9pm",
